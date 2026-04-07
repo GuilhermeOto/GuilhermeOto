@@ -2,7 +2,7 @@
 
 💻 **Técnico de TI** focado em **Suporte & Infraestrutura** e **Desenvolvedor de Software em formação**.
 
-Atualmente trabalho como **Técnico de TI**, onde administro ambientes **Microsoft 365**, gerencio infraestrutura de redes (LAN/WLAN) e implemento políticas de segurança com **Microsoft Intune**.
+Atualmente trabalho como **Técnico de TI**, onde administro ambientes **Microsoft 365**, gerencio infraestrutura de redes (LAN/WLAN) e implemento políticas de segurança com Microsoft Intune, Entra ID, Azure, etc.
 
 Em paralelo, sou estudante na **Fatec de Votorantim**, cursando **Desenvolvimento de Software Multiplataforma**, buscando ativamente unir minha experiência de infraestrutura com o desenvolvimento de software.
 
@@ -27,6 +27,7 @@ Minha experiência profissional e meus estudos atuais incluem:
 * MDM (Microsoft Intune)
 * Suporte Técnico N1/N2 & Diagnóstico de Hardware
 * Controle de Acesso e Sistemas de Vigilância
+* Servidores NAS
 
 #### 💻 Desenvolvimento (Em Estudo)
 * React & Next.js
